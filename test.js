@@ -1,4 +1,4 @@
-const openPullRequest = require('.')
+const {openPullRequest} = require('.')
 
 test('is a function', () => {
   expect(typeof openPullRequest).toBe('function')

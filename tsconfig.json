@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "declaration": true,
+    "declarationDir": ".",
+    "module": "commonjs",
+    "lib": [
+      "es6"
+    ],
+    "target": "es6",
+    "strict": false
+  },
+  "files": [
+    "index.ts"
+  ]
+}
