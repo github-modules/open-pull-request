@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "All-in-one module for forking repos, changing their files, and opening pull requests on GitHub",
   "main": "index.js",
-  "repository": "https://github.com/github-node-modules/open-pull-request",
+  "repository": "https://github.com/github-modules/open-pull-request",
   "author": "zeke",
   "license": "MIT",
   "private": false,
